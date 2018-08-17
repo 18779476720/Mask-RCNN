@@ -47,3 +47,5 @@ This repo borrows tons of code from
 ## License
 See [LICENSE](https://github.com/CharlesShang/FastMaskRCNN/blob/master/LICENSE) for details.
 
+下一步需要做是工作是：
+  采用R－CNN对森林火灾区域进行分割，进而评估火灾的发展趋势。
